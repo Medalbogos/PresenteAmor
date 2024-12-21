@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.login-container {
+    margin-top: 300px;
+}
+
+.texto-link {
+    margin-top: 50px;
+}
+
+.img-fluid {
+    width: 50px;
+    transition: transform 0.3s ease;
+}
+
+.img-fluid:hover {
+    transform: scale(1.2);
+}
